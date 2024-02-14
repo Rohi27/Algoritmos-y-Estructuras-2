@@ -1,0 +1,34 @@
+2024-02-14 16:25:18,193 - mylogger - INFO - log
+2024-02-14 16:33:34,667 - mylogger - INFO - dir
+2024-02-14 16:33:53,362 - mylogger - INFO - type jt.txt"Hola"
+2024-02-14 16:34:19,120 - mylogger - INFO - help
+2024-02-14 16:35:05,046 - mylogger - INFO - type
+2024-02-14 16:35:12,999 - mylogger - INFO - dir
+2024-02-14 16:35:18,595 - mylogger - INFO - type jt
+2024-02-14 16:35:34,866 - mylogger - INFO - type jt.txt "d"
+2024-02-14 16:37:58,460 - mylogger - INFO - cd..
+2024-02-14 16:38:06,143 - mylogger - INFO - dir
+2024-02-14 16:38:21,453 - mylogger - INFO - cd kes
+2024-02-14 16:38:23,828 - mylogger - INFO - dir
+2024-02-14 16:38:27,100 - mylogger - INFO - cd..
+2024-02-14 16:38:30,217 - mylogger - INFO - cd ld
+2024-02-14 16:38:32,924 - mylogger - INFO - dir
+2024-02-14 16:40:18,033 - mylogger - INFO - dir
+2024-02-14 16:40:25,820 - mylogger - INFO - type hola.txt
+2024-02-14 16:40:41,202 - mylogger - INFO - create hola.txt
+2024-02-14 16:40:57,116 - mylogger - INFO - type hola.txt "hola"
+2024-02-14 16:41:06,602 - mylogger - INFO - typ hola.txt sd
+2024-02-14 16:41:16,465 - mylogger - INFO - type hola.txt
+2024-02-14 17:39:36,669 - mylogger - INFO - cd..
+2024-02-14 17:41:53,604 - mylogger - INFO - dir
+2024-02-14 17:41:58,496 - mylogger - INFO - cd ls
+2024-02-14 17:42:02,404 - mylogger - INFO - type
+2024-02-14 17:42:34,034 - mylogger - INFO - type archivo.txt ¨contenido del archivo¨
+2024-02-14 17:42:41,790 - mylogger - INFO - open
+2024-02-14 17:45:41,510 - mylogger - INFO - open archivo.txt
+2024-02-14 17:49:15,570 - mylogger - INFO - & C:/Users/jearm/AppData/Local/Programs/Python/Python311/python.exe c:/Users/jearm/OneDrive/Escritorio/CLI/main.py
+2024-02-14 17:49:23,291 - mylogger - INFO - cd ls
+2024-02-14 17:49:25,491 - mylogger - INFO - dir
+2024-02-14 17:49:33,480 - mylogger - INFO - cd..
+2024-02-14 17:49:35,087 - mylogger - INFO - ls
+2024-02-14 17:49:39,046 - mylogger - INFO - dir
