@@ -1,0 +1,13 @@
+2024-02-14 18:37:58,133 - mylogger - INFO - log
+2024-02-14 18:38:38,460 - mylogger - INFO - help
+2024-02-14 18:40:31,360 - mylogger - INFO - dir
+2024-02-15 20:33:15,050 - mylogger - INFO - help
+2024-02-15 20:33:27,898 - mylogger - INFO - type
+2024-02-15 20:33:34,283 - mylogger - INFO - dir
+2024-02-15 20:33:54,643 - mylogger - INFO - cd ls
+2024-02-15 20:33:57,028 - mylogger - INFO - dir
+2024-02-15 20:34:11,870 - mylogger - INFO - type jt.txt
+2024-02-15 20:34:14,097 - mylogger - INFO - dir
+2024-02-28 18:05:13,262 - mylogger - INFO - cd..
+2024-02-28 18:05:24,778 - mylogger - INFO - dir
+2024-02-28 18:05:47,524 - mylogger - INFO - /ld
